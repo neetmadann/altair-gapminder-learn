@@ -29,11 +29,7 @@ This project presents a comprehensive analysis and interactive visualization of 
 
 ## 📁 Project Structure
 
-📁 gapminder-analysis/
-├── gapminder.csv # Raw Gapminder dataset
-├── gapminder-analysis.ipynb # Main notebook with all code and visuals
-├── README.md # This file
-└── requirements.txt # Python dependencies (optional)
+<pre> ```text 📁 gapminder-analysis/ ├── gapminder.csv # Raw Gapminder dataset ├── gapminder-analysis.ipynb # Main notebook with all code and visuals ├── README.md # This file └── requirements.txt # Python dependencies (optional) ``` </pre>
 
 
 ---
